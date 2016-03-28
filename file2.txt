@@ -1,1 +1,6 @@
 This is file 2 modified
+
+content of file 2
+
+adding header
+adding body
