@@ -1,1 +1,1 @@
-This is file 1 modified in master branch
+This is file 1 modified and resoved conflict
